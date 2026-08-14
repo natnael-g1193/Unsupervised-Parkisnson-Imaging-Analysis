@@ -38,7 +38,7 @@ latent_83,True,False,False,False,True,False,False
 latent_84,False,True,False,False,False,False,False
 latent_85,False,True,False,False,False,False,True
 latent_86,False,False,False,False,False,False,True
-latent_90,False,False,False,False,True,False,False
+latent_90,False,False,False,True,True,False,False
 latent_91,False,False,False,False,False,False,True
 latent_95,False,False,False,False,False,False,False
 latent_98,False,False,False,False,False,False,False
@@ -95,7 +95,7 @@ latent_214,False,False,False,False,False,False,True
 latent_216,False,False,False,False,False,False,False
 latent_218,False,False,False,False,False,False,False
 latent_222,True,True,True,False,True,False,False
-latent_225,False,True,False,True,False,False,True
+latent_225,False,True,False,False,False,False,True
 latent_227,True,True,True,False,False,False,True
 latent_228,False,False,False,False,False,False,True
 latent_229,False,False,False,False,True,False,False
