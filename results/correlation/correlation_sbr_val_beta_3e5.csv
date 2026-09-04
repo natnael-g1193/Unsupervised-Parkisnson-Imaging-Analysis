@@ -1,4 +1,5 @@
 dimension,SBR_XING_PC1_validated,SBR_XING_PC2_validated,SBR_XING_PC3_validated
+latent_0,False,False,False
 latent_2,False,True,True
 latent_3,False,False,True
 latent_4,False,False,False
@@ -12,8 +13,6 @@ latent_17,False,False,False
 latent_18,False,False,True
 latent_19,False,False,True
 latent_20,False,False,True
-latent_22,False,True,False
-latent_25,False,True,True
 latent_26,False,True,True
 latent_29,False,False,False
 latent_31,False,False,True
@@ -24,8 +23,8 @@ latent_41,False,True,True
 latent_47,False,False,False
 latent_48,False,True,True
 latent_51,False,True,False
+latent_52,True,False,False
 latent_55,True,True,True
-latent_56,False,False,False
 latent_57,False,True,False
 latent_63,False,False,False
 latent_66,True,True,True
@@ -35,7 +34,6 @@ latent_76,True,False,False
 latent_79,False,False,True
 latent_82,True,False,False
 latent_83,False,True,False
-latent_84,False,False,False
 latent_85,True,False,True
 latent_86,False,False,True
 latent_90,True,True,False
@@ -53,7 +51,6 @@ latent_113,True,True,True
 latent_114,True,True,False
 latent_116,False,True,False
 latent_117,False,False,False
-latent_118,False,False,False
 latent_119,False,False,True
 latent_120,False,True,False
 latent_121,True,False,False
@@ -70,7 +67,7 @@ latent_151,True,False,True
 latent_156,False,False,False
 latent_162,False,False,True
 latent_163,False,True,False
-latent_166,False,False,False
+latent_167,False,False,False
 latent_169,False,True,False
 latent_171,True,False,True
 latent_173,True,True,True
@@ -80,20 +77,21 @@ latent_180,False,False,True
 latent_183,False,True,False
 latent_185,False,True,True
 latent_188,False,False,True
-latent_189,False,False,False
 latent_192,True,True,False
 latent_195,False,False,True
 latent_196,False,False,True
 latent_197,False,False,True
 latent_198,False,False,True
+latent_200,False,True,False
 latent_201,False,False,False
 latent_203,False,True,False
 latent_205,False,False,False
 latent_206,True,True,True
-latent_208,True,False,False
+latent_211,False,False,False
 latent_214,False,True,False
 latent_216,False,False,True
 latent_218,False,False,True
+latent_221,True,False,False
 latent_222,True,True,False
 latent_225,True,True,False
 latent_227,True,True,True
@@ -102,7 +100,6 @@ latent_229,False,False,False
 latent_232,True,True,True
 latent_234,True,False,True
 latent_235,False,False,False
-latent_237,True,False,False
 latent_238,True,True,True
 latent_241,False,True,True
 latent_245,False,True,False

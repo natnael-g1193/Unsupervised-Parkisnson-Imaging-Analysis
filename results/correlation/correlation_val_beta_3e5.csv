@@ -1,4 +1,5 @@
 dimension,AGE_AT_VISIT_validated,UPDRS3_TOTAL_validated,MOCA_TOTAL_validated,NP3_PC2_validated,Sex_validated,HANDED_validated,HOEHN_YAHR_validated
+latent_0,False,False,False,False,False,False,False
 latent_2,True,False,False,True,False,False,False
 latent_3,True,True,False,True,True,False,True
 latent_4,False,False,False,False,False,False,False
@@ -12,8 +13,6 @@ latent_17,False,False,False,True,False,False,False
 latent_18,False,False,False,False,True,False,False
 latent_19,False,False,False,False,False,False,False
 latent_20,False,True,False,True,False,False,True
-latent_22,True,False,False,False,True,False,False
-latent_25,False,False,False,False,False,False,False
 latent_26,False,False,False,True,False,False,False
 latent_29,False,False,False,False,False,False,True
 latent_31,False,True,False,True,False,False,True
@@ -24,8 +23,8 @@ latent_41,True,False,False,True,True,False,True
 latent_47,False,False,False,False,True,False,False
 latent_48,False,False,False,False,True,False,False
 latent_51,True,True,False,False,True,False,True
+latent_52,True,True,False,False,False,False,True
 latent_55,False,False,False,True,False,False,True
-latent_56,False,False,False,False,False,False,False
 latent_57,False,False,False,False,True,False,False
 latent_63,False,False,False,False,False,False,False
 latent_66,True,False,False,True,True,False,True
@@ -35,7 +34,6 @@ latent_76,False,True,True,True,False,False,True
 latent_79,False,False,False,False,False,False,True
 latent_82,False,False,False,False,False,False,False
 latent_83,True,False,False,True,True,False,False
-latent_84,True,True,False,False,False,False,True
 latent_85,False,True,False,True,False,False,True
 latent_86,False,False,False,True,False,False,True
 latent_90,False,False,True,False,True,False,False
@@ -53,7 +51,6 @@ latent_113,True,True,False,True,False,False,True
 latent_114,True,True,True,False,True,False,True
 latent_116,True,True,True,False,True,False,True
 latent_117,True,False,True,False,False,False,False
-latent_118,True,False,False,False,False,False,True
 latent_119,False,False,False,False,True,False,False
 latent_120,True,False,False,False,False,False,False
 latent_121,False,False,False,False,False,False,False
@@ -70,7 +67,7 @@ latent_151,False,True,False,True,False,False,True
 latent_156,False,False,False,False,False,True,False
 latent_162,True,False,False,False,False,False,False
 latent_163,False,False,False,False,False,False,False
-latent_166,False,False,False,False,False,False,False
+latent_167,False,False,True,False,False,False,False
 latent_169,False,False,False,False,False,False,True
 latent_171,False,False,False,True,True,False,False
 latent_173,False,True,False,True,True,False,True
@@ -80,20 +77,21 @@ latent_180,True,False,False,True,False,False,False
 latent_183,False,False,False,False,False,False,False
 latent_185,True,False,True,False,True,False,False
 latent_188,False,False,False,False,True,False,False
-latent_189,False,True,False,False,False,False,True
 latent_192,True,True,False,True,True,False,True
 latent_195,True,False,False,False,False,False,False
 latent_196,False,False,False,True,True,False,False
 latent_197,False,False,False,False,False,False,False
 latent_198,False,False,False,False,False,False,False
+latent_200,True,False,False,False,True,False,False
 latent_201,False,False,False,False,True,False,False
 latent_203,True,True,True,False,False,False,True
 latent_205,True,True,False,False,True,False,True
 latent_206,False,True,False,True,True,False,True
-latent_208,False,True,False,False,True,False,True
+latent_211,False,True,False,False,True,False,True
 latent_214,False,False,False,False,True,False,True
 latent_216,False,False,False,True,False,False,True
 latent_218,False,True,False,True,False,False,True
+latent_221,True,False,True,False,True,False,False
 latent_222,True,True,True,False,True,False,True
 latent_225,False,True,False,False,False,False,True
 latent_227,True,True,True,False,False,False,True
@@ -102,7 +100,6 @@ latent_229,False,False,False,False,False,False,False
 latent_232,False,True,False,True,False,False,True
 latent_234,False,False,False,False,False,False,True
 latent_235,True,True,False,False,True,False,True
-latent_237,False,True,False,False,False,False,True
 latent_238,False,False,False,True,False,False,False
 latent_241,True,False,False,True,True,False,False
 latent_245,True,False,False,False,False,False,True
