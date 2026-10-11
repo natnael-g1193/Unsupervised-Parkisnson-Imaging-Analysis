@@ -1,2 +1,5 @@
 data/*
+data/raw/ppmi_images/*
+models/checkpoints/*
 notebooks/test/test.ipynb
+models/checkpoints/*.pth
